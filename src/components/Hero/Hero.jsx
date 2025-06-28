@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import dark_arrow from '../../assets/dark-arrow.png'
+// import dark_arrow from '../../assets/dark-arrow.png'
 const Hero = () => {
   return (
     <div className='hero'>
@@ -11,7 +11,7 @@ Get personalized academic support, tips, and strategies directly from peers who'
 Achieve more with relatable mentorship tailored to your courses and university life.
 
 </p>
-<button className='btn'>Explore more <img src={dark_arrow} alt="" /></button>
+{/* <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button> */}
         </div>
       
     </div>
